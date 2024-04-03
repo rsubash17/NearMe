@@ -50,6 +50,7 @@ map.html
       </map></center>
    </body>
    </html>
+
 hotel.html
 
 <html>
