@@ -166,9 +166,8 @@ jewellers.html
 </html>
 ```
 
-## OUTPUT
-![Screenshot 2024-03-26 115028](https://github.com/rsubash17/NearMe/assets/147139828/84e97908-1910-442b-9c55-cf6bd5318472)
-
+## OUPUT
+![submap(2)](https://github.com/rsubash17/NearMe/assets/147139828/aaa9b6b2-fe94-48e6-87b8-730131a77901)
 ![subgrt](https://github.com/rsubash17/NearMe/assets/147139828/ee6597ca-71bc-4d3f-9aa4-08f110836028)
 ![subspec](https://github.com/rsubash17/NearMe/assets/147139828/f71b42be-0dc9-4b55-ac35-3f3ca2c05809)
 ![submobi;e](https://github.com/rsubash17/NearMe/assets/147139828/0c7c218b-524f-4cd8-a1ed-74d420272627)
